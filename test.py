@@ -2,4 +2,5 @@
 def HelloPython():
   return "Hello Python"
 
-HelloPython
+message = HelloPython
+print(message())
